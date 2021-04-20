@@ -42,7 +42,7 @@ Ensure that you are in the chart directory in the repo, since the instructions r
 cd deploy/helm
 ```
 
-To install `hello-kubernets` via the Helm chart, use the following to:
+To install `hello-kubernetes` via the Helm chart, use the following to:
 - create the hello-kubernetes namespace if it doesn't exist
 - deploy the chart located in the ./hello-kubernetes folder into the hello-kubernetes namespace
 - create a Helm release named hello-world
